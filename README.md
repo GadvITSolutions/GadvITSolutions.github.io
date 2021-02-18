@@ -1,4 +1,4 @@
-<!-- <h1>Welcome to</h1>-->
+<!-- <h2>Welcome to</h2>-->
 <main>
    GIDEON AGENYEGAH DREAM VENTURES 
 
