@@ -1,4 +1,5 @@
-<h2>GIDEON AGENYEGAH DREAM VENTURES</h2>
+<h1>GIDEON AGENYEGAH</h1> 
+ <h1> DREAM VENTURES</h2>
   <a href="#"><img src="https://bit.ly/3k5wXty"></a>
    <main>
    
