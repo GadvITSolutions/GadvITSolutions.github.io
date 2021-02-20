@@ -3,8 +3,7 @@
    <main>
    
    <p> We are providers of top-notch safety and security mechanism installation services.GADV envision a world where Artificial Intelligence, (AI) Internet of Things (IoT) and Blockchain technology is use to transform the scope and growth of Businesses as well as protecting lives and properties of individuals. Our amazing team actively contributes to SGD's goal 8. GADV is a Sole Proprietorship business registered in 2016 and started operation in 2019.</p>
-
-  <p>OUR SERVIES:</p>
+<p>OUR SERVIES</p>
     <p><a href="#">CCTV</a></p>
     <p><a href="#">Fire Alarm FM200
 </a></p>
