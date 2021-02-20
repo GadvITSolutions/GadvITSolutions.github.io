@@ -1,12 +1,28 @@
 <h2>Welcome to    GIDEON AGENYEGAH DREAM VENTURES</h2>
 <main>
+   <p>img src href="#"cctv installation."</p>
    
-    <p> img src href="#"cctv installation."</p>
-   </main>
 
-   
-        <p> We are providers of top-notch safety and security mechanism installation servicesFull description of the business: We envision a world where Artificial Intelligence (AI) and Internet of Things (IoT) and Blockchain technology is use to transform the scope and growth of Businesses as well as protecting lives and properties of individuals. Our amazing team actively contributes to SGD's goal 8. GADV is a Sole Proprietorship business registered in 2016 and started operation in 2019.</p>
+   <p> We are providers of top-notch safety and security mechanism installation services.GADV envision a world where Artificial Intelligence, (AI) Internet of Things (IoT) and Blockchain technology is use to transform the scope and growth of Businesses as well as protecting lives and properties of individuals. Our amazing team actively contributes to SGD's goal 8. GADV is a Sole Proprietorship business registered in 2016 and started operation in 2019.</p>
 
-       <p>List of services or products: CCTV, Fire Alarm FM200, Intruder Alarm, Biometric Time Attendance, Access Door Control and door Automation, Intruder Alarm Systems, Software App. Development and Web Marketing. .</p>
+  <p>List of services or products:</p>
+    <p><a href="#">CCTV</a></p>
+    <p><a href="#">Fire Alarm FM200
+</a></p>
+    <p><a href="#">Intruder Alarm
+</a></p>
+    <p><a href="#">Biometric Time Attendance
+</a></p>
+    <p><a href="#">Access Door Control
+</a></p>
+    <p><a href="#">Door Automation
+</a></p>
+    <p><a href="#">Alarm Systems
+</a></p>
+    <p><a href="#">Software App. Development
+</a></p>
+    <p><a href="#">Web Marketing
+</a></p>
+</main>
 
    
