@@ -1,5 +1,5 @@
-<h1>GIDEON AGENYEGAH DREAM VENTURES</h1>
-  <a href="#"><img src="https://bit.ly/3k5wXty"></a>
+<h1> GIDEON AGENYEGAH DREAM VENTURES </h1>
+<a href="#"><img src="https://bit.ly/3k5wXty"></a>
    <main>
    
    <p> We are providers of top-notch safety and security mechanism installation services.GADV envision a world where Artificial Intelligence, (AI) Internet of Things (IoT) and Blockchain technology is use to transform the scope and growth of Businesses as well as protecting lives and properties of individuals. Our amazing team actively contributes to SGD's goal 8. GADV is a Sole Proprietorship business registered in 2016 and started operation in 2019.</p>
